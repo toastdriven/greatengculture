@@ -17,11 +17,26 @@ This is my answer to that question. Enjoy!
    :caption: Contents:
 
    prologue/five-ws
+   prologue/thanks
+
    01/a-seat-at-the-table
 
    # 02/humans-not-resources
-   # 03/respect-given
-   # 04/remote-by-default
+   # 02/respect-given
+   # 02/autonomy
+   # 02/no-spofs
+   # 02/lead-by-example
+   # 03/remote-by-default
+   # 04/meetings-are-the-devil
+   # 05/little-a-agile
+   # 06/team-structures
+   # 07/automate-everything
+   # 08/document-everything-else
+   # 09/normalize-peer-review
+   # 10/hire-trainable-people
+   # 11/data-should-drive-decisions
+   # 12/mentorship-reviews-growth
+   # 13/celebrate
 
 
 License
