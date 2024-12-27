@@ -20,12 +20,8 @@ This is my answer to that question. Enjoy!
    prologue/thanks
 
    01/a-seat-at-the-table
+   02/humans-not-resources
 
-   # 02/humans-not-resources
-   # 02/respect-given
-   # 02/autonomy
-   # 02/no-spofs
-   # 02/lead-by-example
    # 03/remote-by-default
    # 04/meetings-are-the-devil
    # 05/little-a-agile
