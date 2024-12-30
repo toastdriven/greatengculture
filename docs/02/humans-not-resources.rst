@@ -244,7 +244,7 @@ everyone who works there):
   everyone else, usually unnecessarily.
 
 You may not be able to deal with the SPoF immediately, but by combining early
-identification, widespread acknowlegement/communication of the issue, and
+identification, widespread acknowledgement/communication of the issue, and
 prioritizing addressing them (say, within the next quarter) + following through
 goes a long way.
 
@@ -291,7 +291,7 @@ assign responsibility of those items, & hold people accountable to results of
 those items.
 
 .. note::
-   In this document, it's OK to acknowlege specific commits or actions by
+   In this document, it's OK to acknowledge specific commits or actions by
    individuals. This is part of fact gathering, but it **NEEDS** to remain
    facts-only.
 
