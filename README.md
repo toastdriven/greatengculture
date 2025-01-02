@@ -4,6 +4,8 @@ I've been asked by numerous people at many jobs the question of what makes a goo
 
 This is my answer to that question. Enjoy!
 
+![RtD Build Status](https://readthedocs.org/projects/greatengenv/badge/?version=latest)
+
 
 ## Pre-Requisites
 
