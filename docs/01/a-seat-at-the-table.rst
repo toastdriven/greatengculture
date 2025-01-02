@@ -9,7 +9,7 @@
 **"A Seat At The Table"** means just what it says; that Engineering should be
 included in *& have a say* when decision-making.
 
-This is a philosophy that should extend be present at all layers of both the
+This is a philosophy that should be present at all layers of both the
 business & engineering. Naturally, the scope & context should change with the
 situation at-hand.
 
