@@ -21,8 +21,8 @@ This is my answer to that question. Enjoy!
 
    01/a-seat-at-the-table
    02/humans-not-resources
+   03/remote-by-default
 
-   # 03/remote-by-default
    # 04/meetings-are-the-devil
    # 05/little-a-agile
    # 06/team-structures
